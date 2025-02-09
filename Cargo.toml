@@ -1,0 +1,13 @@
+[package]
+name = "ttr_infrared_milkv"
+version = "0.1.0"
+edition = "2021"
+description = "TTR Infrared MilkV Driver"
+homepage = "https://ttr-game.com"
+repository = "https://github.com/Tactical-TV-Remote/MilkV-InfraredDriver"
+license = "MPL-2.0"
+keywords = ["GPIO", "Milk-V", "embedded"]
+readme = "README.md"
+
+[dependencies]
+wiringx = "0.2.0"
